@@ -1,9 +1,11 @@
-# Sally Perez
+<h1 align="center">Sally Perez</h1>
 
-- sally.perez@gmail.com | (206) 371-2958 | Seattle, WA
-- [linkedin.com/in/sallyrperez/](https://www.linkedin.com/in/sallyrperez/) 
-- [github.com/SeattleSal](https://github.com/SeattleSal) 
-- [Portfolio](https://seattlesal.dev)
+<h4 align="center">sally.perez@gmail.com | (206) 371-2958 | Seattle, WA</h4>
+<h4 align="center">
+<a href="https://www.linkedin.com/in/sallyrperez/">linkedin.com/in/sallyrperez/</a> |
+<a href="https://github.com/SeattleSal">github.com/SeattleSal/</a> |
+<a href="https://www.seattlesal.dev">Portfolio</a>
+</h4>
 
 ## SUMMARY
 Junior full stack developer transitioning from successful career as technology auditor. Detailed, fast learner, clear communicator, and supportive team player. Excited to start building web products and solutions. 
@@ -47,14 +49,15 @@ Junior full stack developer transitioning from successful career as technology a
 
 ## EXPERIENCE
 **Senior Manager Tech Audit | Tech Audit Manager, Amazon, Seattle, WA, January 2017 – March 2020**
+
 Led audit risk assessment and created prioritized audit plan for Devices, Alexa and Digital Content spaces. Reduced security and process gaps by performing end to end audit projects over products, technologies, services and processes including testing configurations of Amazon Web Services (AWS) Identity and Access Management and S3 services. 
 
- ## ADDITIONAL EXPERIENCE
+## ADDITIONAL EXPERIENCE
 Reduced risk profiles of organizations by evaluating the tech landscape, identifying areas to audit and performing audit projects through the lifecycle of planning, testing and reporting. Audited system implementations, information security processes, data centers, retail privacy practices, international joint ventures and more. Led professional practices efforts to streamline audit processes and trained auditors on testing IT General Controls including software development lifecycle processes and systems access controls. Additionally, managed a team and onboarded and mentored several new audit employees. 
 * Senior IT Audit Manager, Outerwall, Bellevue, WA 
 * IT Audit Principal, Nordstrom, Seattle, WA 
 * Audit Manager | IT Audit Project Manager, Starbucks, Seattle, WA 
 
 ## EDUCATION
-* Full Stack Web Development Certificate, University of Washington, Seattle, WA | March 2021 
+* Full Stack Web Development Certificate, University of Washington, Seattle, WA, March 2021 
 * Bachelor’s in Computer Science, Arizona State University, Tempe, AZ, Graduated Magna Cum Laude 
