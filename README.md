@@ -1,10 +1,9 @@
 # Sally Perez
-* sally.perez@gmail.com
-* (206) 371-2958
-* Seattle, WA
-* [linkedin.com/in/sallyrperez/](https://www.linkedin.com/in/sallyrperez/)
-* [github.com/SeattleSal](https://github.com/SeattleSal)
-* [Portfolio](https://seattlesal.dev)
+
+- sally.perez@gmail.com | (206) 371-2958 | Seattle, WA
+- [linkedin.com/in/sallyrperez/](https://www.linkedin.com/in/sallyrperez/) 
+- [github.com/SeattleSal](https://github.com/SeattleSal) 
+- [Portfolio](https://seattlesal.dev)
 
 ## SUMMARY
 Junior full stack developer transitioning from successful career as technology auditor. Detailed, fast learner, clear communicator, and supportive team player. Excited to start building web products and solutions. 
